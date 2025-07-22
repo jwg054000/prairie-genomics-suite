@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm start)",
+      "Bash(ls:*)",
+      "Bash(node server.js)",
+      "Bash(npm install:*)",
+      "Bash(./start.sh:*)",
+      "Bash(mkdir:*)",
+      "Bash(rm:*)",
+      "Bash(open http://localhost:4000/graphql)",
+      "Bash(pip3 install:*)",
+      "Bash(python3 -m streamlit run:*)",
+      "Bash(pkill:*)",
+      "Bash(/usr/bin/python3 -m pip:*)",
+      "Bash(/usr/bin/python3:*)",
+      "Bash(open http://localhost:8504)"
+    ],
+    "deny": []
+  }
+}

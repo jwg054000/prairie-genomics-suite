@@ -1,0 +1,30 @@
+{"level":"info","message":"Connected to MongoDB: mongodb://localhost:27017/prairie-genomics","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:21:08"}
+{"level":"info","message":"MongoDB connection verified","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:21:08"}
+{"level":"info","message":"Connected to MongoDB: mongodb://localhost:27017/prairie-genomics","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:22:09"}
+{"level":"info","message":"MongoDB connection verified","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:22:09"}
+{"level":"info","message":"Connected to MongoDB: mongodb://localhost:27017/prairie-genomics","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:22:29"}
+{"level":"info","message":"MongoDB connection verified","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:22:29"}
+{"level":"info","message":"Connected to MongoDB: mongodb://localhost:27017/prairie-genomics","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:26:18"}
+{"level":"info","message":"MongoDB connection verified","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:26:18"}
+{"level":"info","message":"Connected to MongoDB: mongodb://localhost:27017/prairie-genomics","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:26:39"}
+{"level":"info","message":"MongoDB connection verified","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:26:39"}
+{"level":"info","message":"Services initialized","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:26:39"}
+{"level":"info","message":"Middleware configured","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:26:39"}
+{"level":"info","message":"Apollo Server configured","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:26:39"}
+{"level":"info","message":"Subscription server configured","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:26:39"}
+{"level":"info","message":"Server initialized successfully","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:26:39"}
+{"level":"info","message":"🚀 Server ready at http://localhost:4000/graphql","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:26:39"}
+{"level":"info","message":"🚀 Subscriptions ready at ws://localhost:4000/graphql","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:26:39"}
+{"level":"info","message":"🎮 GraphQL Playground available at http://localhost:4000/graphql","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:26:39"}
+{"count":3,"level":"info","message":"Default pipelines created","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:26:39"}
+{"level":"info","message":"Received SIGTERM, shutting down gracefully","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:26:46"}
+{"level":"info","message":"Connected to MongoDB: mongodb://localhost:27017/prairie-genomics","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:26:55"}
+{"level":"info","message":"MongoDB connection verified","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:26:55"}
+{"level":"info","message":"Services initialized","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:26:55"}
+{"level":"info","message":"Middleware configured","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:26:55"}
+{"level":"info","message":"Apollo Server configured","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:26:55"}
+{"level":"info","message":"Subscription server configured","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:26:55"}
+{"level":"info","message":"Server initialized successfully","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:26:55"}
+{"level":"info","message":"🚀 Server ready at http://localhost:4000/graphql","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:26:55"}
+{"level":"info","message":"🚀 Subscriptions ready at ws://localhost:4000/graphql","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:26:55"}
+{"level":"info","message":"🎮 GraphQL Playground available at http://localhost:4000/graphql","service":"prairie-genomics-backend","timestamp":"2025-07-22 07:26:55"}
