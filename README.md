@@ -256,4 +256,4 @@ The system includes:
 - ✅ Interactive visualizations
 - ✅ Publication-ready exports
 
-Happy analyzing! 🧬🔬
+Happy analyzing! 🧬🔬# prairie-genomics-suite
